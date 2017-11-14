@@ -5,6 +5,25 @@
 - https://www.pythonanywhere.com/user/largitdata/files/home/largitdata/fubon
 
 - 帳號：largitdata
+
+- largitstudent01
+- largitstudent02
+- largitstudent03
+- largitstudent04
+- largitstudent05
+- largitstudent06
+- largitstudent07
+- largitstudent08
+- largitstudent09
+- largitstudent10
+- largitstudent11
+- largitstudent12
+- largitstudent13
+- largitstudent14
+- largitstudent15
+- largitstudent16
+
+- 密碼:  PyDataCourse
  
 - 精誠教室WIFI請選擇SYSTEX-Guest
 - 密碼：guest1106
