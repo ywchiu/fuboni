@@ -2,7 +2,7 @@
 
 ## 課程環境
 
-- https://www.pythonanywhere.com/user/largitdata/files/home/largitdata/fubon
+- https://www.pythonanywhere.com
 
 - 帳號：largitdata
 
