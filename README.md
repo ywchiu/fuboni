@@ -18,3 +18,6 @@
 
 ## CNN - 資料集
 - https://goo.gl/rwfQGx 
+
+## R 語言簡介
+ - http://rpubs.com/ywchiu/Demo20180102
