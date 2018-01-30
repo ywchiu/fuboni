@@ -27,4 +27,7 @@
 ## R 網路爬蟲
  - http://rpubs.com/ywchiu/Demo20180123
  - http://rpubs.com/ywchiu/Demo20180125
+ 
+## R 文字探勘
+ - http://rpubs.com/ywchiu/Demo20180130
 
