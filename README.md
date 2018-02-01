@@ -30,4 +30,5 @@
  
 ## R 文字探勘
  - http://rpubs.com/ywchiu/Demo20180130
+ - http://rpubs.com/ywchiu/Demo20180201
 
