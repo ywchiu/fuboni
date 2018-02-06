@@ -32,3 +32,5 @@
  - http://rpubs.com/ywchiu/Demo20180130
  - http://rpubs.com/ywchiu/Demo20180201
 
+## R 機器學習
+ - http://rpubs.com/ywchiu/Demo20180206
