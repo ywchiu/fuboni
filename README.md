@@ -2,6 +2,13 @@
 
 
 ## 課前須知
+
+### PySpark 操作環境
+- http://spark.largitdata.com:8080/
+
+### PySpark 替代方案
+- https://www.zepl.com
+
 ### Anaconda
 - https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe
 
