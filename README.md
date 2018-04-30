@@ -5,6 +5,8 @@
 
 ### PySpark 操作環境
 - http://spark.largitdata.com:8080/
+- david@35.229.214.157  
+- passwd: fubon
 
 ### PySpark 替代方案
 - https://www.zepl.com
